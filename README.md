@@ -8,7 +8,7 @@ Puedes ver la práctica en los siguientes enlaces:
 1. [Pokedex en HTML](/POKEDEX.html)
 1. [Pokedex en CSS](/POKEDEX.css)
 1. [Pokedex en JS](/POKEDEX.js)
-1. [Pokedex](http://127.0.0.1:5500/POKEDEX.html)
+1. [Pokedex](http://htmlpreview.github.io/?https://github.com/AnaGonzF/POKEDEX-FrontendMission-2022/blob/main/POKEDEX.html)
 
 Te dejo un video demostrativo de mi pokedex.
 
