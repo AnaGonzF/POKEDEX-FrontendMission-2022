@@ -12,6 +12,6 @@ Puedes ver la práctica en los siguientes enlaces:
 
 Te dejo un video demostrativo de mi pokedex.
 
-![Gif](/RESOURCES/PokedexDemo.gif)
+![gif](/RESOURCES/PokedexDemo.gif)
 
 ¡Nos vemos en la siguiente práctica!
