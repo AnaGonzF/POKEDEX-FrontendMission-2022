@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'Pixeloid Sans';
+    src: url('RESOURCES/PixeloidSansReg.ttf') format('ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+
+*{
+    font-family: 'Pixeloid Sans';
+}
+
+body{
+    background-image: url(RESOURCES/pokemonLandscape.png);
+    background-size: cover;
+}
+
+.h1-header{
+    color: rgb(228, 15, 15);
+}
+
+.pokedex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.pokedex2{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 500px;
+    height: 500px;
+    border-radius: 30px;
+    border-width: 5px;
+    margin-top: 333px;
+    margin-left: 120px;
+}
+
+.button1{
+    margin-left: 143px;
+    margin-top: 20px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 8px;
+    border-color: black;
+    background-color: rgb(255, 196, 0);
+    color: #000;
+}
+
+.pokeBuscar{
+    margin-left: 60px;
+    margin-top: 120px;
+    display: flex;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 8px;
+    border-color: black;
+    background-color: rgb(114, 231, 60);
+}
+
+.imagenPokemon{
+    margin-left: 145px;
+    margin-top: 50px;
+    width: 150px;
+    height: 150px;
+    background-color: #bde0db;
+}
+
+.imgPokemon{
+    align-items: center;
+    width: 150px;
+
+}
+
+.pantalla{
+    align-content: flex-start;
+    background-color: #bcddc6;
+    width: 300px;
+    height: 200px;
+    margin-left: 19px;
+    text-align: center;
+}
+
+.info{
+    padding: 20px;
+    font-size: 15px;
+    color: #000;
+}
+
+#pokeImage{
+    width: 150px;
+}
