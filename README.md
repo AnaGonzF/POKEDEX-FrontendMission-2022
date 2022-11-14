@@ -12,8 +12,6 @@ Puedes ver la práctica en los siguientes enlaces:
 
 Te dejo un video demostrativo de mi pokedex.
 
-<video width="1080" height="720" controls>
-  <source src="RESOURCES/PokedexVideo.mp4" type="video/mp4">
-</video>
+![Video](/RESOURCES/PokedexDemo.mp4)
 
 ¡Nos vemos en la siguiente práctica!
